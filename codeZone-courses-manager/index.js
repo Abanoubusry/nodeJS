@@ -6,7 +6,7 @@ app.use(express.json());
 
 const courses = [
     {
-        id: 1,
+        id: 2,
         title: 'JS course',
         price: 1000,
     },
